@@ -1,0 +1,1 @@
+"apiVersion: v1\nkind: Namespace\nmetadata:\n  name: bar\n  labels:\n    environment-id: env_eda41e41-a217-4151-bcc6-db177293ae14\n    project-id: project_7b85d6e2-31b8-4d2d-b687-641fab0ba8c9\n    project-name: oho\n    environment-name: prod\n    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900\n"
