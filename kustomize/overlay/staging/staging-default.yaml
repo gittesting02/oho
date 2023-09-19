@@ -1,0 +1,1 @@
+"apiVersion: v1\nkind: Namespace\nmetadata:\n  name: staging-default\n  labels:\n    environment-id: env_fdb74bfd-b67c-4b20-9eb9-14380cb8f156\n    project-id: project_7b85d6e2-31b8-4d2d-b687-641fab0ba8c9\n    project-name: oho\n    environment-name: staging\n    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900\n"
